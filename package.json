@@ -1,0 +1,13 @@
+{
+  "name": "course-joi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "joi": "^18.2.5"
+  }
+}
