@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Silent Echo",
+        "author": "Emily Vance",
+        "isbn": "9781234567890",
+        "publicationDate": "2024-03-12T00:00:00.000Z",
+        "isAvailable": true,
+        "tags": [
+            "mystery",
+            "thriller",
+            "fiction"
+        ]
+    },
+    {
+        "title": "Coding the Future",
+        "author": "Alan Turing",
+        "isbn": "A1B2C3D4E5F67",
+        "publicationDate": "2025-11-30T00:00:00.000Z",
+        "isAvailable": true,
+        "tags": [
+            "tech",
+            "programming",
+            "education"
+        ]
+    }
+]
