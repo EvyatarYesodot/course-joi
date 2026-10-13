@@ -4,3 +4,9 @@ export class CustomError extends Error {
         this.statusCode = statusCode;
     };
 };
+
+export class BookNotFoundError extends CustomError {
+    constructor(isbn) {
+        super(`book by isbn: '${isbn}' is not found`, 404);
+    };
+};
